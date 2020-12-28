@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(base.png);
+    background: url(https://github.com/rapturerl/rapturerl.github.io/blob/master/dad/base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -9,7 +9,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(abxy.png);
+    background: url(https://github.com/rapturerl/rapturerl.github.io/blob/master/dad/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -54,7 +54,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url(https://github.com/rapturerl/rapturerl.github.io/blob/master/dad/stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
